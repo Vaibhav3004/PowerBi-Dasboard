@@ -1,4 +1,4 @@
-# Airlines-Dashboard
+# Zepto-Dashboard
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/ab130b20-f36b-4bad-b607-5851bbf118c3/1d2c2f6246206090d776?experience=power-bi
 
