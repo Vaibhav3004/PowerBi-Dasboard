@@ -1,7 +1,3 @@
-# Zepto-Dashboard
-
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/ab130b20-f36b-4bad-b607-5851bbf118c3/1d2c2f6246206090d776?experience=power-bi
-
 ## Problem Statement
 
 Retail businesses, especially in the fast-moving consumer goods (FMCG) sector, need data-driven decision-making to optimize sales, manage inventory, and improve customer satisfaction. However, they often face challenges such as:
